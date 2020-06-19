@@ -8,3 +8,8 @@ Following along with Codecademy's "Ravenous" project- a React app which utilises
 
 - Create React App, Initialize Repository
 - Create and Style Base Project & Components
+
+### Part 2
+
+-Prepare for API integration
+-Update Components to Pass Props
