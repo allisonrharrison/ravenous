@@ -11,5 +11,9 @@ Following along with Codecademy's "Ravenous" project- a React app which utilises
 
 ### Part 2
 
--Prepare for API integration
--Update Components to Pass Props
+- Prepare for API integration
+- Update Components to Pass Props
+
+### Part 3
+- Set State of Ravenous Components
+- Handle State Changes 
