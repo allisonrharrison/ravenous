@@ -17,3 +17,6 @@ Following along with Codecademy's "Ravenous" project- a React app which utilises
 ### Part 3
 - Set State of Ravenous Components
 - Handle State Changes 
+
+### Part 4
+- Fully Integrate Yelp API
